@@ -3,10 +3,8 @@
 # include "libft.h"
 # include <fcntl.h>
 # include <unistd.h>
-# include <iostream>
 # include <stdio.h>
 
-using namespace	std;
 
 typedef struct	s_data
 {
